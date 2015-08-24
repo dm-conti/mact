@@ -1,4 +1,4 @@
-package eu.entaksi.cpanel;
+package eu.entaksi.cpanel.cdisupport;
 
 import javafx.application.Application.Parameters;
 

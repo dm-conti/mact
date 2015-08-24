@@ -1,10 +1,12 @@
-package eu.entaksi.cpanel;
+package eu.entaksi.cpanel.cdisupport;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
 import org.apache.deltaspike.cdise.api.CdiContainer;
 import org.apache.deltaspike.cdise.api.CdiContainerLoader;
 import org.apache.deltaspike.core.api.provider.BeanProvider;
+
+import javax.enterprise.util.AnnotationLiteral;
 
 /**
  * Created by uzumaki on 24/08/15.
